@@ -1,0 +1,25 @@
+{
+  "name": "angular-dynamic-controller",
+  "version": "1.0.0",
+  "authors": [
+    "Aditya Jadhav <aditya.jadhav27@gmail.com>"
+  ],
+  "description": "Angular directive that allows dynamically include the controller",
+  "main": "lib/angular-dynamic-controller.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "angular",
+    "dynamic controller",
+    "tabs",
+  ],
+  "license": "MIT",
+  "ignore": [
+    "demo",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
