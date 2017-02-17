@@ -1,4 +1,4 @@
-# Angular Dynamic Controller
+# :rocket: Angular Dynamic Controller
 
 This directive allows you to dynamically specify a controller name to inject into html template 
 
